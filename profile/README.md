@@ -5,7 +5,7 @@ We are a research group based at the University of Padova, specialized in metage
 
 ## 🔬 Reasearch
 
-Our lab focuses on interdisciplinary research at the intersection of microbiology, bioinformatics, and environmental sustainability.:
+Our lab focuses on interdisciplinary research at the intersection of microbiology, bioinformatics, and environmental sustainability:
 
 * Microbial Ecology of Anaerobic Digestion
 * Metagenomics and Metabolic Modeling
@@ -21,7 +21,7 @@ Our team collaborates across disciplines to publish open-source software and dat
 ## 👥 People
 
 **Principal Investigators (PIs)**:
-* Prof. Stefano Camapanaro ([stefano.campanaro@unipd.it](mailto:stefano.campanaro@unipd.it)) [[ORCID](https://orcid.org/0000-0002-9431-1648)] [[X](https://x.com/campanarostef?t=A2awzJnmovu5b7J-Qe5H6w&s=03)]
+* Prof. Stefano Campanaro ([stefano.campanaro@unipd.it](mailto:stefano.campanaro@unipd.it)) [[ORCID](https://orcid.org/0000-0002-9431-1648)] [[X](https://x.com/campanarostef?t=A2awzJnmovu5b7J-Qe5H6w&s=03)]
 * Prof. Laura Treu ([laura.treu@unipd.it](mailto:laura.treu@unipd.it)) [[ORCID](https://orcid.org/0000-0002-5053-4452)] [[X](https://x.com/LauraTreu?t=_G8zckeZs-yjKiBgqZ0ADQ&s=03)]
 
 For more details about our members and their projects, meet the full team [here](https://metabioinfomicslab.it/our-team/)!
